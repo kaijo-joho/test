@@ -107,7 +107,7 @@ section article {
 
 h1{margin: 0.2em 0 1em ;}
 
-section article h1, section h1 a, #title{
+section article h1, section h1, section h1 a, #title{
   color: var(--theme-color);
   font-size: var(--font-size-h1);
   font-weight: 600;
